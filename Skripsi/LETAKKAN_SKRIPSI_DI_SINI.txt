@@ -1,0 +1,9 @@
+Letakkan file skripsi Anda di sini (.docx).
+
+Contoh: Skripsi_Rakha_Yuda.docx
+
+Setelah diletakkan, jalankan script:
+    cd "Code Convert"
+    python convert_docx.py
+
+Hasil konversi (.md) akan muncul di folder ini secara otomatis.

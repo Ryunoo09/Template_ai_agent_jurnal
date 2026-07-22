@@ -1,0 +1,28 @@
+Letakkan hasil eksperimen model Anda di sini.
+
+Contoh isi folder ini:
+├── hasil_yolo/
+│   ├── results_model_a/
+│   │   ├── summary.txt
+│   │   ├── evaluation_results.txt
+│   │   ├── val_batch0_pred.jpg
+│   │   ├── confusion_matrix_normalized.png
+│   │   ├── custom_loss_map_curves.png
+│   │   └── error_analysis/
+│   │       └── error_analysis_piechart.png
+│   └── results_model_b/
+│       └── ...
+│
+├── hasil_ocr/ (jika ada)
+│   ├── evaluasi_akhir_ocr/
+│   │   ├── rekap_evaluasi.csv
+│   │   └── Grafik_Perbandingan.png
+│   └── ...
+│
+├── arsitektur_sistem.png    ← Diagram arsitektur / pipeline
+└── gambar_tambahan/         ← Foto lapangan, screenshot, dll.
+
+Tips:
+- Simpan metrik evaluasi di file .txt atau .csv agar mudah dibaca AI
+- Simpan grafik dalam format .png atau .jpg
+- Simpan diagram arsitektur sebagai gambar (bukan hanya di Word/PPT)
